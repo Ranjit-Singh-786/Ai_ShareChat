@@ -1,4 +1,4 @@
-# Secure Communication Application with AI-Powered Smart Features
+# Secure Communication and sharing img , .txt , .pdf files, Developed Application with AI-Powered Smart Features
 ## Overview
 This Python-based application is designed to facilitate secure communication within an organization's network. Leveraging a combination of socket programming, machine learning, deep learning, natural language processing (NLP), and computer vision technologies, it enables multiple employees to interact seamlessly while ensuring robust security measures.
 
