@@ -11,6 +11,7 @@ try:
     result = num1 / num2
     print(f"This is your output :-{result}")
 except Exception as e:
+    logging.info('Error Has been occured !')
     raise ShareChatException(e,sys)
 
 # OUTPUT >>> SUCCESSFULLY TESTED
