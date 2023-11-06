@@ -19,7 +19,7 @@ Advanced computer vision capabilities allow users to share and process images ef
 NLP techniques are employed to understand and analyze text messages, enabling features like sentiment analysis, summarization, and context-aware responses.
 
 ## Security Measures
-###End-to-End Encryption: 
+### End-to-End Encryption: 
 All communications within the application are protected with robust end-to-end encryption, ensuring the confidentiality and integrity of shared information.
 
 ### Authentication and Authorization: 
@@ -46,7 +46,10 @@ Technologies Used
 <li>Deep Learning</li>
 <li>Natural Language Processing (NLP)</li>
 <li>Computer Vision</li>
-<li>Contributions</li>
+<li>Web Scraping</li>
+<li>Data Management</li>
+<li>Structure & Non-Structure Database</li>
+<li>Amazon Web Service-( AWS ) </li>
 </ul>
 
 ## Contributions
