@@ -6,7 +6,7 @@ load_dotenv()
 
 #preparing path for log files
 log_file_base_path = os.getenv("LOG_DIR_PATH")
-log_directory = "Ai_shareChat_Logs"
+log_directory = "shareChat_Logs"
 log_directory_path = os.path.join(log_file_base_path,log_directory)
 current_time_stamp = f"{datetime.now().strftime('%Y-%m-%d-%H-%M-%S')}"
 file_name = "log_"+current_time_stamp+".log"
@@ -22,7 +22,5 @@ logging.basicConfig(filename=log_file_path,
                     level=logging.DEBUG,
                     format="[%(asctime)s]  - %(levelname)s - %(message)s")
 
-# for the testing
-if __name__ == "__main__": 
-    logging.info(f"Testing Logging File")
+
 

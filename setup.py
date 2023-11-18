@@ -15,11 +15,11 @@ def get_requirements()->list[str]:
     return requirement_list
 
 
-setup(name = 'Ai_ShareChat',
+setup(name = 'ShareChatApp',
       version = '0.0.1', # every time when you will release your next time your project u wil have to change the version.
-      description = 'We can share with .jpg , .txt , .pdf , chatting with this app in support of AI.',
+      description = 'We can share with .jpg , .txt , .pdf , and also can communicate with each other in organization',
       author = 'Ranjit Singh',
-      author_email = 'jiradhey402@gmail.com',    # mail must be associated with git
+      author_email = 'smartengineer0786@gmail.com',    # mail must be associated with git
       packages = find_packages(),     # it will find all the packages from your project.
       install_reqires = get_requirements()  # varaible assigned by itself. to give the idea about dependencies.
 )
